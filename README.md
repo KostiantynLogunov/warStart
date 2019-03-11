@@ -1,3 +1,3 @@
--clone project
--npm i
--npm start
+# clone project
+# npm i
+# npm start
